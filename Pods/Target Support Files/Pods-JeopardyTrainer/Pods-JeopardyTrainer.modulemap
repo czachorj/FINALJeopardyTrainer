@@ -1,0 +1,6 @@
+module Pods_JeopardyTrainer {
+  umbrella header "Pods-JeopardyTrainer-umbrella.h"
+
+  export *
+  module * { export * }
+}
